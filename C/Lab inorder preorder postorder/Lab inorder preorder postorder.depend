@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571202058 source:d:\c programs\lab inorder preorder postorder\main.c
+	<stdio.h>
+	<stdlib.h>
+
